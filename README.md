@@ -11,7 +11,7 @@ Ivysauro Anki Deck Series for National Postgraduate Entrance Examination - 妙�
 ## 使用指南
 
 - [Anki终极汇总](https://zhuanlan.zhihu.com/p/21328602)
-- [Anki知乎专栏)](https://zhuanlan.zhihu.com/-anki)
+- [Anki知乎专栏](https://zhuanlan.zhihu.com/-anki)
 - [Anki豆瓣小组](https://www.douban.com/group/577207)
 
 

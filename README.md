@@ -6,7 +6,7 @@ Ivysauro Anki Deck Series for National Postgraduate Entrance Examination - 妙�
 
 ## 下载地址
 
-- [AnkiWeb](https://ankiweb.net/shared/byauthor/934622764)
+- [AnkiWeb](https://ankiweb.net/shared/by-author/934622764)
 
 ## 使用指南
 
@@ -24,7 +24,7 @@ Ivysauro Anki Deck Series for National Postgraduate Entrance Examination - 妙�
 
 ## 推荐群组
 
-- [Telegram](https://t.me/joinchat/KVQwdlOdM37Cs4_tTMZUAw)（~~低活跃~~私有群组，点击链接加入）
+- [Telegram](https://t.me/joinchat/KVQwdlOdM37Cs4_tTMZUAw)（群主称为减少Spam已转为私有群组，点击链接即可加入~~低活跃快来灌水~~）
 
 ## 反馈
 
